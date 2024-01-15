@@ -4,7 +4,7 @@ export const cores = {
   rosa: '#E66767',
   rosaClaro: '#FFEBD9',
   background: '#FFF8F2',
-  branco: '#FFEBD9',
+  branco: '#FFFFFF',
   amarelo: '#FFB930'
 }
 
