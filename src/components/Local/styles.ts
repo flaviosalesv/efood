@@ -59,7 +59,7 @@ export const Tag = styled.span`
   padding: 6px 8px;
   display: inline-block;
   background-color: ${cores.rosa};
-  color: ${cores.branco};
+  color: ${cores.rosaClaro};
   text-align: center;
   font-size: 12px;
   font-weight: bold;
