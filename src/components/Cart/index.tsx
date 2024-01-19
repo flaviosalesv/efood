@@ -222,7 +222,7 @@ const Cart = () => {
                           onBlur={form.handleBlur}
                           className={checkInputHasError('cep') ? 'error' : ''}
                           value={form.values.cep}
-                          mask="99999-99"
+                          mask="99999-999"
                           name="cep"
                           id="cep"
                           type="text"
