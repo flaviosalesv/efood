@@ -72,3 +72,4 @@ export const Tags = styled.div`
   right: 8px;
   font-size: 12px;
 `
+//finalizacao//

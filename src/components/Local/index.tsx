@@ -53,4 +53,3 @@ const Restaurante = ({
 
 export default Restaurante
 
-//finalizacao
